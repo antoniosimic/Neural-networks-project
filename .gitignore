@@ -1,0 +1,20 @@
+# Skup podataka (preuzima se s Kagglea)
+data/
+aptos2019-blindness-detection/
+*.zip
+
+# Generirani izlazi
+outputs/
+
+# Kaggle vjerodajnice
+kaggle.json
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# macOS
+.DS_Store
